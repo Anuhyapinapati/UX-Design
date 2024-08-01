@@ -1,0 +1,420 @@
+Don Norman: Norman, who coined the term "user experience" in the early 1990s while working at Apple, is widely recognized for popularizing and formalizing the concept of UX design. His work emphasized the importance of designing products with a focus on user needs and experiences.
+--In 1990,by don norman 
+
+*how the user interact/experience a product is the user experience. 
+-->product is a good,service or feature
+
+ux designers are empathetic
+empathy-the ability to understand someone else feelings or thoughts in a situation
+
+There are many types of designers some of them are:
+interaction designers-- focus on designing the experience of a product and how it functions
+visual designers --focus on how the product or technology looks
+motion designers --think about what it feels like for a user to move through a product
+graphic designers --create visuals that tells a story or message, focus on the physical appearance of the product
+
+
+ux researcher  --conduct studies or interviews that help us learn how people use a product
+ux writer --think about how to make the language within a product clearer
+production designers --who often act as a bridge between interaction designers and engineers. They make sure the first and final designs match in the finished product materials and that the assets are ready to be handed off to the engineering team.
+assets --are everything from text and images to the design specifications, like font style, color, size, and spacing.
+UX engineers --translate the design's intent into a functioning experience, like a website or an app.
+
+
+ Product development lifecycle includes
+-brain storm
+-define
+-design
+-test
+-launch
+
+The product development lifecycle in UX design typically involves several key phases, each contributing to the creation of a user-centered product. Here's a simplified breakdown of these stages:
+
+Brainstorm:
+Generate a wide range of ideas and potential solutions based on initial research and insights. This phase involves creative thinking and exploration of various approaches to address user needs and solve design problems.
+
+Define:
+Clearly articulate the problem, user needs, and project goals. Synthesize insights from the brainstorming phase to establish a focused design brief or problem statement that guides the development process.
+
+Design:
+Develop detailed design solutions based on the defined problem and goals. This phase includes creating wireframes, prototypes, and visual designs to explore and refine the interface and interactions.
+
+Test:
+Evaluate the designs with real users to gather feedback and identify usability issues. Testing helps validate design decisions and provides insights for refining and improving the product.
+
+Launch:
+Release the final product to users. This phase involves implementing the design, ensuring it is functional and meets quality standards, and preparing for post-launch activities such as monitoring user feedback and making iterative improvements.
+
+These stages form a cyclical process, with each phase informing and influencing the others to ensure that the final product effectively meets user needs and delivers a positive experience.
+
+
+To have a good experience the product need to be
+-usable
+-equitable
+-enjoyable
+-useful
+
+Characteristics of good ux design :
+1.usable  ---- it means the design, structure, and purpose of the product is clear and easy to use.
+example: cart in shopping app can be accesed anywhere in the app
+2.equitable ----- it means a design is helpful to people with diverse abilities and backgrounds.In other words, the product’s design addresses the needs of a diverse audience and ensures a high-quality experience is delivered to all users regardless of background, gender, race, or ability. 
+example: pronouns in dating app
+3.enjoyable ------ it means the design delights the user. The design reflects what the user may be thinking or feeling and creates a positive connection with them.
+example: gives the positive msg like 'halfway to the goal' in fitness app
+4.useful -----that means it solves user problems. In other words, the design intentionally solves a user problem that the designer has identified. 
+example:maps give the better route that are hassle free from traffic
+
+
+
+Responsibilities of an entry level UX designer are:
+-research
+-wireframe
+-prototype
+-create information architecture
+-communicate effectively
+
+
+Design thinking:
+The design thinking framework involves the following phases: 
+empathize  === >During the empathize phase, your primary goal is to learn more about the user and their problems, wants, and needs, and the environment or context in which they’ll experience your design. The most important part of the empathize phase is to step away from your assumptions and guesses and let your research findings inform your decision-making in later design phases.
+
+define === >In the define phase, you’ll analyze your research findings from the empathize phase and determine which user problems are the most important ones to solve, and why. This will drive you toward a clear goal for the design of the product.
+
+ideate  === >After you land on a user problem and establish why it’s an important one to solve, it’s time for the ideate phase. The goal of ideation is to come up with as many design solutions as possible—don’t settle for your first solution because the most obvious solution is not always the right one. 
+Ideation involves collaborative brainstorming with other members of your team to generate as many solutions as possible to a problem. This could include marketing, engineering, product management, or any other stakeholders for the product or service. During brainstorming sessions, you should explore all possible solutions. Don’t focus on whether something is a “good” or “bad” idea, just collect as many ideas as you can. The important thing here is to keep this process judgment-free.
+
+prototype and test === >After you have an idea of how to solve the problem, you’re ready to enter the prototype phase, where your goal is to produce an early model of a product that demonstrates its functionality and can be used for testing. The test phase is critical to developing the right solution to address your user’s problem, and an organized approach to testing can help you create exceptional user experiences.
+Prototyping and testing are interconnected, which means that you’ll test your designs at each stage of prototype development rather than waiting to test until after the working prototype is complete. If the design is too polished the first time you present it to users, you might not get as much feedback. Think about ways to include testing throughout the design process, so that you’re iterating your designs based on user feedback instead of other reasons. 
+
+ideate ------
+SCAMPER
+SCAMPER is a technique designers used to brainstorm changes and alternatives to ideas and designs. Each letter of the acronym stands for a different action that designers can apply to their designs, such as substituting (S) elements for other elements, combining (C) elements into one, or adapting (A) elements with alternatives. In full, the acronym stands for: Substitute, Combine, Adapt, Modify, Put to another use, Eliminate, and Rearrange. 
+
+PROTOTYPE :
+
+1.Information architecture
+
+2.Sitemaps
+
+3.Wireframing (paper and digital)
+
+4.Lo-fi prototypes
+
+5.Hi-fi prototypes
+
+Information architecture (IA):
+Organizes content to help users understand where they are in a product and where the information they want is.
+
+Sitemaps:
+It is a visual or text-based representation of a website's structure. It outlines the organization and hierarchy of all the pages and content, showing how they are linked together. Think of it as a blueprint or roadmap that helps designers, developers, and stakeholders understand the layout and navigation of the site. It ensures that the website is logically organized, making it easier for users to find what they're looking for. 
+
+Wireframing:
+Wireframes are rough sketches of the product that bring the sitemap to life. Designers use them to figure out how the product’s pages are laid out, how each page’s elements are arranged, and how users will progress from page to page. They are relatively bare bones, consisting primarily of shapes, lines, and minimal text. There are two methods designers can employ:
+1.Paper wireframes ---->Paper wireframes are sketches on paper. They use horizontal lines to represent text, rectangles or boxes to represent icons or images, and other shapes to represent buttons and additional elements. It’s easy and inexpensive to iterate many versions with paper. 
+
+2.Digital wireframes  ---->Digital wireframes are developed in a UX design tool such as Figma or Adobe XD. Digital wireframes are 2D designs that show, at a high level, what the product will look like. Designers use grayscale, shapes, and placeholder text to demonstrate what the design will look and feel like when content is added. (On a fun side-note: Lorem ipsum is a form of placeholder text that is so common that many designers like to play around with it for fun, to inspire creativity.
+
+Low fidelity (lo-fi) prototypes:
+In UX, “fidelity” means how closely a design matches the look and feel of the final product. A low fidelity prototype is a simple interactive model that provides a basic idea of what the product will look like and how its components will flow for users. Designers often create lo-fi prototypes by assembling their wireframes and adding interactivity, or the ability to navigate from one screen to another. Designers use lo-fi prototypes to test and improve their designs before spending time and effort developing more detailed high-fidelity prototypes. 
+
+High fidelity (hi-fi) prototypes:
+A high fidelity prototype takes the lo-fi prototype and brings it as close to the final product as possible. Hi-fi prototypes incorporate all of the product’s components, interactivity, and content, though some content may be represented by realistic placeholders. It is not the final product, but it enables people to more fully experience how the product will look, feel, and work. For example, consider the richly detailed hi-fi prototype for Tee’s Shirts below. More than just an assembly of navigable wireframes, this hi-fi prototype will enable testers and stakeholders to simulate a realistic experience with the final product, which means richer and more detailed feedback for designers on every facet of the final product.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Design sprints five phases:
+1.Understand
+2.Ideate
+3.Decide
+4.Prototype
+5.Test
+
+Design sprints are a five-phase process used to solve complex problems and test new ideas through rapid prototyping and user feedback.A design sprint consists of five phases that guide a team from problem identification to user-tested solutions within a short timeframe, typically five days. Here are the five phases:
+
+Understand (Monday):
+Goal: Gain a deep understanding of the problem, the users, and the business context.
+Activities: Conduct research, interviews, and review existing knowledge. Define the long-term goal and map out the challenge.
+
+Ideate (Tuesday):
+Goal: Explore and generate a wide range of creative solutions.
+Activities: Brainstorm ideas, sketch potential solutions, and present them to the team. Use structured methods like "Crazy Eights" to stimulate creativity.
+
+Decide (Wednesday):
+Goal: Select the most promising solution(s) to prototype.
+Activities: Discuss and critique the ideas generated, use methods like dot voting to make decisions, and create a storyboard that outlines the prototype.
+
+Prototype (Thursday):
+Goal: Build a realistic, but simplified, version of the solution that can be tested with users.
+Activities: Develop a high-fidelity prototype using tools like paper sketches, digital mockups, or interactive prototypes. Focus on key features to be tested.
+
+Test (Friday):
+Goal: Validate the prototype by gathering feedback from real users.
+Activities: Conduct user testing sessions, observe how users interact with the prototype, and collect feedback. Analyze the results to identify what works and what needs improvement.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+UX RESEARCHER:
+Additional research methods that might be used to conduct design research include:
+
+A/B testing: A research method that evaluates and compares two different aspects of a product to discover which of them is most effective. For example, you might have users evaluate two layouts for the homepage of your app to find out which layout is more effective. 
+
+Cafe or guerrilla studies: A research method where user feedback is gathered by taking a design or prototype into the public domain and asking passersby for their thoughts. For example, you might sit in a local coffee shop and ask customers if they would be willing to test your app design for a couple of minutes and provide feedback. 
+
+Card sorting: A research method that instructs study participants to sort individual labels written on notecards into categories that make sense to them. This type of research is largely used to figure out the information architecture of your project, which we’ll discuss in the next course of the program — Course 3: Build Wireframes and Low-Fidelity Designs.
+
+Intercepts: A research method that gathers on-site feedback from users as they engage in the activities being researched. Intercepts are often conducted in the field, so this type of research is often considered a subset of field research. An intercept study can provide quick, high-level feedback.
+
+Types of research:
+There are two ways to categorize research: who conducts the research and the type of data collected. 
+
+The first way to categorize research is based on who conducts the research: primary research and secondary research.
+
+Primary research is research you conduct yourself. Information from direct interactions with users, like interviews, surveys, or usability studies, are considered primary research.
+
+Secondary research is research that uses information someone else has put together. For example, using information from sources like books, articles, or journals is considered secondary research.
+
+The second way to categorize research is based on the type of data collected: qualitative or quantitative.
+
+Qualitative research is primarily collected through observations and conversations. Qualitative research is based on understanding users’ needs and aims to answer questions like “why” or “how did this happen?”
+
+Quantitative research focuses on data that can be gathered by counting or measuring. Quantitative research is based on numerical data that’s often collected from large-scale surveys. This type of research aims to answer questions like “how many?” and “how much?”
+
+
+Conversion rate: Measures the percentage of users who complete a desired action
+
+Data recording: Document your study and results in a way that's consistent with UX research standards
+
+Data storage: Ensure data is held in a way that's safe from hacking and physical damage
+
+Data retention: How long you hold on to research data
+
+De-identification: Removing any identifying information from a users’ data that is collected during a research study
+
+Drop-off rates: The number of users who abandon the experience
+
+Design research: Helps designers understand how to build the product
+
+Foundational research: Helps designers understand why or if they should build the product and to better understand the user problem they are trying to solve
+
+Key Performance Indicators (KPIs): Critical measures of progress toward an end goal
+
+Methodology: The steps to take to conduct research, collect data, and analyze data
+
+Non-Disclosure Agreement (NDA): A contract that gives one party legal protection against another party stealing their ideas or revealing proprietary information before a product is launched
+
+Personally Identifiable information (PII): Specific details that could be used to identify a user
+
+Project stakeholders: People who are involved in the project or who will be affected by its results
+
+Post-launch research: Helps designers understand if the product worked as expected 
+
+Qualitative research: Focuses on observations about why and how things happen
+
+Quantitative research: Focuses on data that can be gathered by counting or measuring 
+
+Research study: A step-by-step examination of a group of users and their needs, which adds realistic context to the design process
+
+Sensitive Personally Identifiable Information: Data that if lost, compromised, or stolen, could cause your users financial harm, embarrassment, or discrimination
+
+System Usability Scale (SUS): A questionnaire that measures the usability of designs
+
+Time on task: The amount of time it takes for a user to complete a task
+
+Usability study: A research method that assesses how easy it is for participants to complete core tasks in a design
+
+Affinity: A feeling of like-mindedness or compatibility toward something or someone
+
+Affinity diagram: A method of synthesizing that organizes data into groups with common themes or relationships
+
+Insight: An observation about people that helps you understand the user or their needs from a new perspective
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gestalt principles:
+Gestalt principles are a set of psychological concepts that explain how people perceive and organize visual information.Describe how humans group similar elements, recognize patterns, and simplify complex images when perceiving objects.
+
+Proximity: Objects that are close to each other are perceived as a group. This principle helps in organizing information by grouping related items together.
+
+Similarity: Items that look similar are often seen as part of the same group. This can be applied through consistent use of colors, shapes, or sizes to create a cohesive design.
+
+Continuity: The human eye is drawn to continuous lines and paths. This principle suggests that users will follow the smoothest path when navigating through a design, so creating a natural flow is important.
+
+Closure: The mind tends to fill in missing information to complete a shape or pattern. This principle can be used to create designs that suggest more than they explicitly show, engaging the user's imagination.
+
+Figure-Ground: People instinctively perceive objects as either being in the foreground or the background. Effective use of this principle can help in emphasizing important elements in a design by making them stand out against their background.
+
+Symmetry and Order: This principle states that people perceive symmetrical and well-organized objects as being together. Symmetry and order in design can create a sense of balance and harmony, making the layout more pleasing to the eye.
+
+Common Fate: Elements moving in the same direction are perceived to be more related than those moving in different directions. This principle can be applied in animations and transitions to show relationships between different parts of a design.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Gestures:
+Gestures are any method of interaction that a user has with information on their device using touch. In other words, gestures describe how you interact with a screen using your finger or a stylus. Common gestures include:
+
+Swipe: A swipe is a brief movement with a fingertip or stylus across the screen, horizontally or vertically. For example, users often swipe from the right side of a phone screen to the left, in order to move between screens of an app. Swipes are also commonly used to interact with a carousel of content.
+
+Tap: A tap is a brief touch of the screen by a fingertip or stylus. Taps can be customized from the use of one fingertip to four fingertips. Tapping with a single finger is often used to select an item on the screen. Tapping with two fingers can be used as a shortcut to make the context menu (also known as the right-click menu) appear.
+
+Drag: A drag is a tap-and-hold on the screen, continuing to press down while moving a fingertip or stylus across the screen. For example, users can drag an item on a screen to move it in and out of view. Drag is often used for the main notification menu on mobile phones.
+
+Pinch: A pinch is the movement of two fingers closing into each other or moving away from one another. A pinch allows users to scale items on a screen, like zooming in or out on a website, map, or photo.
+
+Action: Defines what happens when the user interacts with the hotspot
+
+Gesture: Any method of interaction a user has with information on their device using touch
+
+Interactivity: Makes the prototype function
+
+Motion: A way to animate static design elements to focus the user’s attention and tell stories
+
+Prototype: An early model of a product that demonstrates functionality
+
+Trigger: Defines what type of interaction will cause the prototype to advance forward
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Typography: 
+Typography is the art and technique of arranging type to make written language legible, readable, and visually appealing. It involves the selection of typefaces, point sizes, line lengths, line-spacing (leading), letter-spacing (tracking), and the adjustment of space between pairs of letters (kerning). Typography is a crucial element in design, impacting how content is perceived and understood. Here are some key aspects of typography:
+
+Typeface and Font:
+Typeface: A family of fonts (e.g., Arial, Times New Roman) that share a common design.
+Font: A specific style and size of a typeface (e.g., Arial Bold, 12pt).
+
+Hierarchy:
+Establishing a clear visual order to guide the reader's eye and indicate the importance of different text elements.
+
+Alignment:
+How text is positioned within a layout (e.g., left-aligned, center-aligned, right-aligned, justified).
+
+Spacing:
+Leading: The vertical space between lines of text.
+Tracking: The uniform space between all characters in a block of text.
+Kerning: The adjustment of space between specific pairs of characters.
+
+Contrast:
+Using different typefaces, weights, sizes, and colors to create visual distinction between text elements.
+Readability and Legibility:
+
+Readability: How easily text can be read and understood over long periods.
+
+Legibility: How easily individual characters can be distinguished.
+
+Consistency:
+Maintaining uniformity in typography choices throughout a design to create a cohesive and professional look.
+
+Typography plays a vital role in effective communication, influencing how users engage with and interpret content.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Color theory:
+Color theory is the study of how colors interact, the visual effects of color combinations, and the principles used to create harmonious color schemes.color contrast (minimum 4.5:1 for normal text and 3:1 for large text). It is an essential aspect of design, influencing aesthetics, mood, and usability. Here are some key concepts in color theory:
+
+Color Wheel:
+A circular diagram of colors that shows relationships between primary, secondary, and tertiary colors.
+Primary Colors: Red, blue, and yellow; cannot be created by mixing other colors.
+Secondary Colors: Green, orange, and purple; created by mixing primary colors.
+Tertiary Colors: Created by mixing a primary color with a secondary color (e.g., red-orange, blue-green).
+
+Color Harmony:
+The pleasing arrangement of colors that creates a sense of balance and order. Common schemes include:
+Complementary: Colors opposite each other on the color wheel (e.g., red and green).
+Analogous: Colors next to each other on the color wheel (e.g., blue, blue-green, green).
+Triadic: Three colors evenly spaced around the color wheel (e.g., red, yellow, blue).
+Tetradic (Double Complementary): Two pairs of complementary colors (e.g., red and green, blue and orange).
+Monochromatic: Variations in lightness and saturation of a single color.
+
+Color Properties:
+Hue: The name of a color (e.g., red, blue).
+Saturation: The intensity or purity of a color (high saturation means vibrant, low saturation means dull).
+Value (Brightness): The lightness or darkness of a color.
+
+Warm and Cool Colors:
+Warm Colors: Red, orange, yellow; evoke warmth and energy.
+Cool Colors: Blue, green, purple; evoke calmness and serenity.
+
+Color Context:
+The perception of a color can change depending on its surrounding colors. Colors can affect each other in terms of brightness, hue, and saturation when placed next to each other.
+
+Psychological Effects of Color:
+Different colors can evoke specific emotions and reactions. 
+For example:
+Red: Energy, passion, urgency.
+Blue: Trust, calmness, professionalism.
+Green: Growth, tranquility, health.
+Yellow: Happiness, attention, caution.
+
+Accessibility:
+Ensuring that color combinations provide sufficient contrast and can be distinguished by people with color vision deficiencies. Tools like color contrast checkers are often used to meet accessibility standards.
+
+Understanding and applying color theory helps designers create visually appealing, effective, and accessible designs.
+
+
+
+In UX design, certain color combinations should be avoided to ensure accessibility, readability, and overall user experience. Here are some combinations to be cautious about:
+
+Low Contrast Combinations:
+Light Grey on White: Difficult to read, especially for users with visual impairments.
+Light Blue on White: Often lacks sufficient contrast for readability.
+Light Yellow on White: Very low contrast and hard to distinguish.
+
+High Contrast but Straining Combinations:
+Red on Green: Can cause visual fatigue and is difficult for color-blind users to differentiate.
+Blue on Red: Creates a vibrating effect that is hard on the eyes.
+Green on Red: Similar to red on green, it’s hard for color-blind users and can cause eye strain.
+
+Color Combinations for Color Blindness:
+Red and Green: Most common form of color blindness (Deuteranopia and Protanopia) makes these colors indistinguishable.
+Green and Brown: Can be hard to differentiate for users with Deuteranopia.
+Blue and Purple: Difficult for users with Tritanopia (blue-yellow color blindness).
+Light Green and Yellow: Hard to distinguish for users with various forms of color blindness.
+
+Clashing Colors:
+Neon Colors Together: Neon colors like neon pink and neon green can be harsh and overwhelming.
+Bright Red and Bright Blue: Causes visual discomfort and is hard to focus on.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Iconography:
+Iconography is the practice of creating and using icons in design to visually represent objects, actions, ideas, or concepts. Icons are simplified images or symbols that are used to communicate messages quickly and effectively without relying on text. In UX design, iconography plays a crucial role in enhancing usability, guiding users, and improving the overall aesthetic appeal of an interface. Here are key aspects of iconography:
+
+Clarity:
+Icons should be easily recognizable and understandable. They should clearly convey their intended meaning without causing confusion.
+
+Consistency:
+Icons should maintain a consistent style, size, and color throughout the design to create a cohesive and harmonious visual experience.
+
+Simplicity:
+Icons should be simple and not overly detailed. Minimalistic designs help in quick recognition and prevent visual clutter.
+
+Relevance:
+Icons should be relevant to the function or information they represent. They should accurately reflect the action, object, or concept they are associated with.
+
+Scalability:
+Icons should be designed to look good at various sizes, ensuring they remain clear and effective whether they are small or large.
+
+Accessibility:
+Icons should be accompanied by text labels when necessary to ensure they are understandable to all users, including those with visual impairments.
+
+Cultural Sensitivity:
+Icons should be designed with cultural differences in mind, as certain symbols may have different meanings in different cultures.
+
+Interactivity:
+In interactive designs, icons should provide feedback, such as changing appearance when hovered over or clicked, to indicate their functionality.
+
+
+Examples of Common Icons in UX Design:
+
+Navigation Icons: Home, menu, back, forward, and search.
+Action Icons: Add, delete, save, edit, and share.
+Social Media Icons: Facebook, Twitter, Instagram, and LinkedIn.
+Status Icons: Loading, error, warning, and success.
+
+Best Practices for Iconography in UX Design:
+Test Icons with Users: Conduct usability testing to ensure icons are understood by users.
+Use Established Conventions: Utilize widely recognized icons to take advantage of users' familiarity with standard symbols.
+Ensure Adequate Contrast: Icons should have enough contrast with their background to be easily visible.
+Group Related Icons: Place related icons together to help users quickly find and understand their functions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
